@@ -1,0 +1,20 @@
+Set One Domain as goal
+
+Prepare a road map
+
+Developers teach computer system to perform different operations
+
+output -->> printf(""); //what all are things written in double quotes will be printed as it is (printf("hello world");
+// print the output hello world
+
+Input -->> scanf("%d",&a); //%d for integers  %f for floating point numbers %c for characters
+
+Data type -->> //int , float, Char 
+Variable -->> //variable are the values which can take any values to declare a variable data type is needed
+
+int a= 10 ; //Intially storing a variable inside a data type is called intialization
+int a; // this method is called declaration here variable is not   intialized with a value
+
+// semi coloumn is used to  end a statement
+
+
