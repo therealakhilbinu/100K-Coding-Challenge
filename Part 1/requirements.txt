@@ -1,0 +1,35 @@
+Basic requirement for Coding
+
+* Basic Knowledge in English
+* Basic Mathematics
+* Ready to make a mistake (also try to resolve it)
+* Stop exam oriented(instead practice regularly)
+* Ask your doubts (leave your comments)
+* Programming is a set of instructions for execution
+* c & java(core languages) are language followed in this challenge
+* Basic concept and ideologies in c and oops concept in java
+* Compiler is tool which convert human readable Programming language to mahine code or language 
+  (high level language into machine language)
+* Users are using the compiled code (final software product)
+* software development kit(sdk) are pre written kits used for Programming
+* Integrate development environment(where user can run or write program with suggestions)
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
