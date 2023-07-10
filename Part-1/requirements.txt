@@ -12,7 +12,7 @@ Basic requirement for Coding
   (high level language into machine language)
 * Users are using the compiled code (final software product)
 * software development kit(sdk) are pre written kits used for Programming
-* Integrate development environment(where user can run or write program with suggestions)
+* Integrate development environment(where user can run or write program with suggestions )
 * 
 
 

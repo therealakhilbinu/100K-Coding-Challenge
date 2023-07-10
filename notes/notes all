@@ -27,3 +27,35 @@ Assignment -->> = , += , -=
 
 // == checks if a equals to b
 // = mean a assign to b
+
+
+
+----------------------Control statement----------------------
+
+if else  // if is near with true and false after else
+if else if
+else if ladder 
+switch
+
+
+
+
+/* 
+if (condition)
+{
+   statements
+}
+else
+{
+    statements
+}
+*/
+
+
+
+
+
+
+
+
+
