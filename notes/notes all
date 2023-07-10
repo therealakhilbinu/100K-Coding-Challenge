@@ -18,3 +18,12 @@ int a; // this method is called declaration here variable is not   intialized wi
 // semi coloumn is used to  end a statement
 
 
+-----------------Operators------------------------------------
+
+Arithmetic -->> + , - , * , /, %
+Relational -->> == , < , > , >= , <=
+Logical -->> ! , && , ||
+Assignment -->> = , += , -=
+
+// == checks if a equals to b
+// = mean a assign to b
