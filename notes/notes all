@@ -50,12 +50,39 @@ else
     statements
 }
 */
+  Loops
+ _______
+
+
+for
+while
+do while
+--------------------|
+post increment      |
+a++                 |
+a--                 |
+if a =5             |
+b=a++               |
+b= 5                |
+a= 6                |
+                    |
+                    |
+pre increment       |
+                    |
+++a                 |
+--a                 |
+if a = 5            |
+b=++a               |
+a = 6               |
+b = 6               |
+--------------------|
 
 
 
-
-
-
+for(intialization;declaration;updation)
+{
+    {statements}
+}
 
 
 
