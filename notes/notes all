@@ -85,10 +85,50 @@ for(intialization;declaration;updation)
 }
 
 Part-6
-
+---------------------------------------------------------------------
 Maintain a coding standard
 
 use proper words instead of a & b use num , choice , limit
+
+improve communication language presentation skills
+
+-----------------------------String--------------------------------------
+
+character array can be called as string here no need of & in scanf & printf also it ending with a \0
+char name[6] --------------> intialization
+printf("%s",name)
+scanf("%s",name)
+
+Value declaration directly
+
+name[]={'A','K','H','I','L','\0'};
+name[]="AKHIL";
+
+
+---------------------Function-------------------------------
+
+Function is set of steps which can be performed repeatedly by calling
+
+ There are 4 type of Functions
+
+ datas transfered with functions are called argument or parameter
+
+ after performing we can return a value which can be called return values
+
+ Function declaration
+ function calling
+ Function definition
+
+ ----------types of function----------------
+
+ function without argument without return value
+
+
+
+
+
+
+
 
 
 
