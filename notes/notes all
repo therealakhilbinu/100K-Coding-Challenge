@@ -129,6 +129,23 @@ Function is set of steps which can be performed repeatedly by calling
 
 
 
+----------------------JAVA--------------------------------
 
+use capital for naming a java file and java project(applicble for all words)
+
+use + operator in java instead of %d in c
+ 
+c is platform dependent and java is platform independent(in c compiler changes with os and
+ some header files will be available in windows would not be available in linux this is similar in case of mac os also and in case of java same compiler can be used with all operating system)
+
+class contain 
+ properties - Variables
+ method - functions
+
+ we can have one class and two object
+
+ we can store two values in one class using two object
+
+ 
 
 
