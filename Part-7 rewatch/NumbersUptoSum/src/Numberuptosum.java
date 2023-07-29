@@ -11,7 +11,7 @@ public class Numberuptosum {
 		
 		int num=s.nextInt();
 		
-		for(i=0;i<num;i++) {
+		for(i=0;i<=num;i++) {
 			
 			sum=sum+i;
 		}

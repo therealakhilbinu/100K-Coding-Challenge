@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class FunctionWithArgWithReturnVal {
 	
+	
 	public static void main(String ar[]) {
 		
 		Scanner sc = new Scanner(System.in);
